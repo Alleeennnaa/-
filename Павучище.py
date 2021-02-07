@@ -7,3 +7,5 @@ Created on Sun Feb  7 14:56:49 2021
 
 print ('Pineapple!!!')
 print ('Павучищееее!!!')
+print ('Пивуки')
+print ('Пивуки 222')
